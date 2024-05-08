@@ -1,0 +1,1 @@
+This repo is used for helm charts for deploying applications to kubernetes using argoCd
