@@ -23,7 +23,6 @@ serviceAccounts:
     ## Opt out of automounting Kubernetes API credentials.
     ## It will be overriden by server.automountServiceAccountToken value, if set.
     # automountServiceAccountToken: false
-
 ## Additional labels to attach to all resources
 commonMetaLabels: {}
 
